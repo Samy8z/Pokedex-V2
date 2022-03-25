@@ -1,2 +1,2 @@
 # Pokedex
- Pokedex project in C# class
+ Pokedex project in C# course
